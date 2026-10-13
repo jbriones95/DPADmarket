@@ -197,6 +197,34 @@
       "license": "GPL-3.0",
       "platform": "Android",
       "inputSupport": "D-pad supported"
+    },
+    {
+      "id": "tt9",
+      "packageId": "io.github.sspanak.tt9",
+      "name": "TT9 (Offline Voice)",
+      "developer": "JMTDI",
+      "repository": "https://github.com/JMTDI/tt9",
+      "releaseApi": "https://api.github.com/repos/JMTDI/tt9/releases/latest",
+      "category": "Tools",
+      "summary": "T9 keyboard for keypad phones with offline voice typing using Whistle.",
+      "curatorNote": "A build of the TT9 keyboard with offline speech-to-text. Releases include lite and full APKs; the keyboard must be enabled in system settings after install.",
+      "license": "Apache-2.0",
+      "platform": "Android",
+      "inputSupport": "Keypad and D-pad supported"
+    },
+    {
+      "id": "quik",
+      "packageId": "com.jmtditech.quik",
+      "name": "QUIK (D-pad)",
+      "developer": "JMTDI",
+      "repository": "https://github.com/JMTDI/quik",
+      "releaseApi": "https://api.github.com/repos/JMTDI/quik/releases/latest",
+      "category": "Communication",
+      "summary": "QUIK SMS messenger patched with full D-pad and keypad navigation.",
+      "curatorNote": "Upstream QUIK with a D-pad patch set applied and published as signed APK releases.",
+      "license": "GPL-3.0",
+      "platform": "Android",
+      "inputSupport": "D-pad supported"
     }
   ]
 }

@@ -17,6 +17,8 @@
         <package android:name="com.evdeman.flip2calendar" />
         <package android:name="io.github.theonionsarewatching.nova" />
         <package android:name="com.flipphoneguy.totp" />
+        <package android:name="com.jmtditech.quik" />
+        <package android:name="io.github.sspanak.tt9" />
     </queries>
     <application android:theme="@android:style/Theme.Material.NoActionBar" android:label="@string/app_name" android:icon="@drawable/ic_market" android:usesCleartextTraffic="false" android:allowBackup="true" android:fullBackupContent="@xml/backup_rules" android:dataExtractionRules="@xml/data_extraction_rules">
         <activity android:name=".MainActivity" android:exported="true">
