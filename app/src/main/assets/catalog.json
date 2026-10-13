@@ -183,6 +183,20 @@
       "license": "PolyForm Noncommercial 1.0.0",
       "platform": "Android",
       "inputSupport": "D-pad supported"
+    },
+    {
+      "id": "totp-authenticator",
+      "packageId": "com.flipphoneguy.totp",
+      "name": "Authenticator",
+      "developer": "flipphoneguy",
+      "repository": "https://github.com/flipphoneguy/totp_app",
+      "releaseApi": "https://api.github.com/repos/flipphoneguy/totp_app/releases/latest",
+      "category": "Tools",
+      "summary": "Lightweight offline D-pad compatible 2FA (TOTP) app",
+      "curatorNote": "An offline D-pad compatible 2FA (TOTP) app. Codes are stored encrypted with an optional password lock",
+      "license": "GPL-3.0",
+      "platform": "Android",
+      "inputSupport": "D-pad supported"
     }
   ]
 }
