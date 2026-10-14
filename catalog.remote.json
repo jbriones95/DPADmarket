@@ -226,6 +226,21 @@
       "license": "GPL-3.0",
       "platform": "Android",
       "inputSupport": "D-pad supported"
+    },
+    {
+      "id": "keydoku",
+      "packageId": "com.keydoku",
+      "name": "Keydoku",
+      "developer": "d4mysus",
+      "repository": "https://github.com/d4mysus/Keydoku",
+      "releaseApi": "https://api.github.com/repos/d4mysus/Keydoku/releases/latest",
+      "category": "Games",
+      "summary": "An offline Sudoku game designed for Android keypad phones.",
+      "curatorNote": "Native Sudoku gameplay with explicit D-pad and physical-key controls, no ads, accounts, analytics, or network permission.",
+      "license": "GPL-3.0-only",
+      "platform": "Android",
+      "inputSupport": "D-pad and keypad supported",
+      "apkAsset": "keydoku.apk"
     }
   ]
 }
