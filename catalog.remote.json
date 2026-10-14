@@ -60,7 +60,7 @@
     },
     {
       "id": "dumberkit-phone",
-      "packageId": "org.fossify.phone",
+      "packageId": "com.dumberkit.phone",
       "name": "DumberKit: Phone",
       "developer": "lbockaj",
       "repository": "https://github.com/lbockaj/DumberKit-Phone",
@@ -74,7 +74,7 @@
     },
     {
       "id": "dumberkit-contacts",
-      "packageId": "org.fossify.contacts",
+      "packageId": "com.dumberkit.contacts",
       "name": "DumberKit: Contacts",
       "developer": "lbockaj",
       "repository": "https://github.com/lbockaj/DumberKit-Contacts",
@@ -88,7 +88,7 @@
     },
     {
       "id": "dumberkit-clock",
-      "packageId": "org.fossify.clock",
+      "packageId": "com.dumberkit.clock",
       "name": "DumberKit: Clock",
       "developer": "lbockaj",
       "repository": "https://github.com/lbockaj/DumberKit-Clock",
@@ -102,7 +102,7 @@
     },
     {
       "id": "dumberkit-calculator",
-      "packageId": "org.fossify.math",
+      "packageId": "com.dumberkit.calculator",
       "name": "DumberKit: Calculator",
       "developer": "lbockaj",
       "repository": "https://github.com/lbockaj/DumberKit-Calculator",

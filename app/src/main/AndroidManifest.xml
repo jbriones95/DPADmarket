@@ -7,10 +7,10 @@
         <package android:name="app.vela" />
         <package android:name="com.dpadsms" />
         <package android:name="com.example.dpadplayer" />
-        <package android:name="org.fossify.phone" />
-        <package android:name="org.fossify.contacts" />
-        <package android:name="org.fossify.clock" />
-        <package android:name="org.fossify.math" />
+        <package android:name="com.dumberkit.phone" />
+        <package android:name="com.dumberkit.contacts" />
+        <package android:name="com.dumberkit.clock" />
+        <package android:name="com.dumberkit.calculator" />
         <package android:name="com.minispot.app" />
         <package android:name="app.inkos" />
         <package android:name="org.matchat.client" />
