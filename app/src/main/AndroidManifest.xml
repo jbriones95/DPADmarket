@@ -5,7 +5,7 @@
     <queries>
         <package android:name="io.github.sds100.keymapper" />
         <package android:name="app.vela" />
-        <package android:name="com.dpad.messaging" />
+        <package android:name="com.dpadsms" />
         <package android:name="com.example.dpadplayer" />
         <package android:name="org.fossify.phone" />
         <package android:name="org.fossify.contacts" />

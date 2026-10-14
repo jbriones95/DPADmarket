@@ -32,7 +32,7 @@
     },
     {
       "id": "dpad-messaging",
-      "packageId": "com.dpad.messaging",
+      "packageId": "com.dpadsms",
       "name": "DPAD Messaging",
       "developer": "jbriones95",
       "repository": "https://github.com/jbriones95/DPAD-Messaging",
