@@ -197,6 +197,20 @@
       "license": "GPL-3.0",
       "platform": "Android",
       "inputSupport": "D-pad supported"
-    }
+    },
+    {
+      "id": "tt9",
+      "packageId": "io.github.sspanak.tt9",
+      "name": "Traditional T9",
+      "developer": "sspanak",
+      "repository": "https://github.com/sspanak/tt9",
+      "releaseApi": "https://api.github.com/repos/sspanak/tt9/releases/latest",
+      "category": "Tools",
+      "summary": "TT9: a T9 keyboard inspired by the classic Nokia phones of the 2000s.",
+      "curatorNote": "A Nokia-style T9 keyboard that provides predictive text input in 50+ languages, and extensive customization options. No spying, no tracking, no ads, no Google Play Services.",
+      "license": "Apache-2.0",
+      "platform": "Android",
+      "inputSupport": "D-pad supported"
+    },
   ]
 }
