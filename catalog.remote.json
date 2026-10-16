@@ -241,6 +241,20 @@
       "platform": "Android",
       "inputSupport": "D-pad and keypad supported",
       "apkAsset": "keydoku.apk"
+    },
+    {
+      "id": "chora",
+      "packageId": "com.craftworks.music",
+      "name": "Chora",
+      "developer": "CraftWorks",
+      "repository": "https://github.com/CraftWorksMC/Chora",
+      "releaseApi": "https://api.github.com/repos/CraftWorksMC/Chora/releases/latest",
+      "category": "Audio",
+      "summary": "Simple Navidrome / Subsonic Music Player",
+      "curatorNote": "A simple and light-weight app that streams music from a Subsonic or Navidrome server, or from the phone's storage.",
+      "license": "GPL-3.0-only",
+      "platform": "Android",
+      "inputSupport": "D-pad and keypad supported"
     }
   ]
 }
