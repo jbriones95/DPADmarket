@@ -241,6 +241,21 @@
       "platform": "Android",
       "inputSupport": "D-pad and keypad supported",
       "apkAsset": "keydoku.apk"
+    },
+    {
+      "id": "chora",
+      "packageId": "com.craftworks.music",
+      "name": "Chora",
+      "developer": "CraftWorksMC",
+      "repository": "https://github.com/CraftWorksMC/Chora",
+      "releaseApi": "https://api.github.com/repos/CraftWorksMC/Chora/releases/latest",
+      "category": "Audio",
+      "summary": "A lightweight music player for Navidrome, Subsonic, and local music.",
+      "curatorNote": "Supports Android TV as well as phones; D-pad compatibility on keypad devices needs testing.",
+      "license": "Apache-2.0",
+      "platform": "Android",
+      "inputSupport": "Android TV supported; D-pad on keypad phones needs testing",
+      "apkAsset": "Chora-v1.31.1-Release.apk"
     }
   ]
 }
