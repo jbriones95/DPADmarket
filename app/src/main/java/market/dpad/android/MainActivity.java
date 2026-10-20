@@ -775,7 +775,7 @@ public class MainActivity extends Activity {
     private void uninstallApp(AppEntry app) {
         if (app.packageId == null || app.packageId.isEmpty()) return;
         try {
-            startActivity(new Intent(Intent.ACTION_DELETE, Uri.parse("package:" + app.packageId)));
+            startActivity(new Intent(Intent.ACTION_UNINSTALL_PACKAGE, Uri.parse("package:" + app.packageId)));
         } catch (Exception e) {
             Toast.makeText(this, "Could not open Android's uninstall screen.", Toast.LENGTH_LONG).show();
         }
